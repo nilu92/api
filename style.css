@@ -1,0 +1,24 @@
+.container
+{
+    height: 200px;
+    width: 450px;
+    border-radius: 25px;;
+    border-width: 2px;
+    border-style: solid;
+    background-color: black;
+    border-color: yellow;
+   
+    color: aliceblue;
+    
+   
+    text-align: center;
+   
+}
+.title
+{
+    color: yellowgreen;
+    /*margin-left: 700px;*/
+    
+    margin-top: 50px;
+  
+}
